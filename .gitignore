@@ -1,0 +1,14 @@
+# Logs
+*.log
+extension-install.log
+
+# Generated files
+failed-extensions.txt
+
+# User files
+extensions.txt
+my-extensions.txt
+
+# OS files
+.DS_Store
+Thumbs.db
